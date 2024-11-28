@@ -18,7 +18,9 @@ https://arxiv.org/abs/2411.17440
 https://pku-yuangroup.github.io/ConsisID/
 
 ### 🖼 Output
+![1](https://github.com/user-attachments/assets/ee73cc31-5cd3-4077-be1d-c47b774cb31c)
 
+https://github.com/user-attachments/assets/99071a26-2332-447b-9472-0ecfd5eb1f78
 
 ### 🏢 Sponsor
 https://modelslab.com
